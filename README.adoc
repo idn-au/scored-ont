@@ -17,7 +17,7 @@ The thing being scored is the generic `dcat:Resource` which means anything catal
 
 This ontology is documented in full at:
 
-* https://idn-au.github.io/scores-calculator/scores.html
+* https://idn-au.github.io/scores-ont/scores.html
 
 == Licensing & Rights
 
